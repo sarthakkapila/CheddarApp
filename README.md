@@ -52,7 +52,7 @@ EXPO_PUBLIC_SUPABASE_ANON_KEY
 
 
 # DEMO VIDEO
-[**DEMO VIDEO**](https://youtu.be/oKR2wzRZCkE)
+[**DEMO VIDEO**](https://www.youtube.com/watch?v=oKR2wzRZCkE)
 
 
 
