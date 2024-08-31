@@ -58,39 +58,39 @@ EXPO_PUBLIC_SUPABASE_ANON_KEY
 
 Install my-project with npm
 
-bash
+```bash
     git clone https://github.com/Cheddar-org/CheddarApp
     cd cheddarApp
-
+```
 
 Navigate to the Dumpling dir
-bash
+```bash
     cd Dumpling
-
+```
 Install necessary dependencies
-bash
+```bash
     bun install
     or
     npm install
-
+```
 
 Create a .env file in the root of the project and 
 
-bash
+```bash
    bun start
    or
    npm start
+```
 
+- Expo opens start in development mode by default, press 'S' in the terminal to switch to Expo Go
 
-Expo opens start in development mode by default, press 'S' in the terminal to switch to Expo Go
+- Install Expo Go on your device ( the app only works on IOS as of now ) 
 
-Install Expo Go on your device ( the app only works on IOS as of now ) 
+- Scan the QR code and select Expo Go in the options
 
-Scan the QR code and select Expo Go in the options
+- Wait for it to finish building
 
-Wait for it to finish building
-
-Start testing
+- Start testing
 
 
 contact: 
